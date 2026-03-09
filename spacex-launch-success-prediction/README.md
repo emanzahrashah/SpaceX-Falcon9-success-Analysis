@@ -51,6 +51,9 @@ The goal is to explore patterns behind launch success and build predictive model
 
 The project includes an interactive dashboard built using Plotly Dash that allows users to explore SpaceX launch records by launch site and payload mass.
 
+<img width="950" height="482" alt="All Launch sites dropdown" src="https://github.com/user-attachments/assets/dba2fc7c-44bc-4fc9-82c6-402a33e2b801" />
+
+
 ---
 
 ## Repository Structure
@@ -68,5 +71,6 @@ spacex-launch-success-prediction
 ---
 
 ## Conclusion
+
 
 This project demonstrates a full end-to-end data science workflow including data collection, preprocessing, geospatial analysis, machine learning modeling, and interactive visualization using real-world aerospace data.
